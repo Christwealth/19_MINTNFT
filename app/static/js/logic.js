@@ -1,7 +1,7 @@
-Moralis.initialize(""); // Application id from moralis.io
-Moralis.serverURL = ""; //Server url from moralis.io
+Moralis.initialize(""); // CWJ8bGPKq8yeeBDVWjK01lK6DegWwhob0LIeDBtL
+Moralis.serverURL = ""; //https://ftnhejo92znw.usemoralis.com:2053/server
 
-const nft_contract_address = "" //NFT Minting Contract Use This One "Batteries Included", code of this contract is in the github repository under contract_base for your reference.
+const nft_contract_address = "0x818E5a777eBc68E4e44d0dd5A77888754DF8CD93" //NFT Minting Contract Use This One "Batteries Included", code of this contract is in the github repository under contract_base for your reference.
 /*
 Available deployed contracts
 Ethereum Rinkeby 0x0Fb6EF3505b9c52Ed39595433a21aF9B5FCc4431
